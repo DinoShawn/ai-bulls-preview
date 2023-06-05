@@ -283,12 +283,12 @@ const Home = (props) => {
           <div data-teleport="doctors" className="home-doctors">
             <Doctor
               text="Coolest CoFounder"
-              heading="Nscnt"
+              heading="Yo$a"
               image_src="/Bulls/99-300w.png"
             ></Doctor>
             <Doctor
               text="Twitter Shitposter"
-              heading="Hustle"
+              heading="Gordono"
               image_src="/Bulls/129-300w.png"
             ></Doctor>
             <Doctor
@@ -345,7 +345,7 @@ const Home = (props) => {
           </div>
         </div>
       </section>
-      <section id="how-it-works" className="home-why">
+        <section id="how-it-works" className="home-why">
         <div className="home-heading10">
           <h2 className="home-header08">Roadmap</h2>
         </div>
